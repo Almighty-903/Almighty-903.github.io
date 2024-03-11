@@ -24,11 +24,10 @@ body {
     border: 2px solid black;
     width: 200px;
     height: auto;
-    border-radius: 50%;
 }
 
 #description {
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: Verdana;
     font-size: 18px;
 }
 
